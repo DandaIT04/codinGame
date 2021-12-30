@@ -24,3 +24,11 @@ print(row) if row starts with question prefix is my solution
 find the exact day in numbers when tom's birthday will fall on. 1 = monday, 2 = tuesday etc
 if m+n > 7 means his birthday is next week, so just take m+n - 7 so that it starts on next week.
 
+# 6_codingame
+basically print the folder directory path thingy game e.g downloads/pictures/hello.png
+num is number of folders the file is in
+folder is folder name
+filename is filename
+extension is the extension name of the file
+
+
