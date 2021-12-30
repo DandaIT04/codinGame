@@ -20,3 +20,7 @@ n = number of examples
 row = ["how to be good at coding","good at something","how to be software engineer"]
 print(row) if row starts with question prefix is my solution
 
+# 4_codinGame
+find the exact day in numbers when tom's birthday will fall on. 1 = monday, 2 = tuesday etc
+if m+n > 7 means his birthday is next week, so just take m+n - 7 so that it starts on next week.
+
