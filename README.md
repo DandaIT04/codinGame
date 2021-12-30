@@ -13,3 +13,10 @@ Basically, we are to print alphabets according to the amount given and if it is 
 
 # 3_codinGame
 Asked to check if a number is perfect. A number is perfect as long as it is even
+
+# 4_codinGame
+question_prefix = how to
+n = number of examples
+row = ["how to be good at coding","good at something","how to be software engineer"]
+print(row) if row starts with question prefix is my solution
+
