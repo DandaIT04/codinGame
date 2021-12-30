@@ -10,3 +10,6 @@ I actually had fun with this problem. No statements, only inputs and outputs.
 Input = 3, uppercase
 Output = A B C
 Basically, we are to print alphabets according to the amount given and if it is uppercase or lowercase
+
+# 3_codinGame
+Asked to check if a number is perfect. A number is perfect as long as it is even
