@@ -37,7 +37,7 @@ Return second highest value in a list
 w,x,y,z int numbers e.g 100,103,102,101
 Could've just done theList = [w,x,y,z]
 
-# 7_codingame
+# 8_codingame
 problem:
 input = 15243 input = enaet
 output = eaten
