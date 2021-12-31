@@ -31,4 +31,8 @@ folder is folder name
 filename is filename
 extension is the extension name of the file
 
-
+# 7_codingame
+Problem:
+Return second highest value in a list
+w,x,y,z int numbers e.g 100,103,102,101
+Could've just done theList = [w,x,y,z]
