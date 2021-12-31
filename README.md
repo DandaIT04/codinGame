@@ -36,3 +36,12 @@ Problem:
 Return second highest value in a list
 w,x,y,z int numbers e.g 100,103,102,101
 Could've just done theList = [w,x,y,z]
+
+# 7_codingame
+problem:
+input = 15243 input = enaet
+output = eaten
+
+Put both inputs into a list. Then first input into dict key and second input into dict value. Sort the dict based on items(). list the dict values into a variable
+Lastly, do a for loop to to append list elements into a string variable. Print the string variable.
+Did not manage to solve this during the clash but 15mins after clash so took 30minutes overall. Actually a fun problem.
