@@ -49,3 +49,11 @@ Did not manage to solve this during the clash but 15mins after clash so took 30m
 # 9_codingame
 problem:
 print sum of all even numbers from 0 to given number n.
+
+# 10_codingame
+No problem statement. just input and output given and i was supposed to figure out what the problem is.
+string 1 input = 0001
+string 2 input = 1011
+output = 1011
+
+Basically, if value of the index of either one of the two strings contains "1", return "1" else "0" into a new string variable. print result.
