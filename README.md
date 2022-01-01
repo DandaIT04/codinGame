@@ -69,3 +69,7 @@ if input a == input a reversed, print wins else loses
 
 I hate python sometimes. if list(a). Then b = a, b.reverse(), a is also reversed. Like why? i thought python executes top down but b = a also a = b in this case?
 In order to ensure b.reverse() doesn't affect a, i have to do b = list(a). Like why?
+
+# 12_codingame
+
+n = 4, 1+3+5+7 = 16. Basically, sum odd numbers of given number n. But like.....its like....just.....print(n*n).....i did a while loop at first...
