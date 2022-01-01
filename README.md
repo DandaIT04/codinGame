@@ -62,3 +62,10 @@ string 2 input = 1011
 output = 1011
 
 Basically, if value of the index of either one of the two strings contains "1", return "1" else "0" into a new string variable. print result.
+
+# 11_codingame
+
+if input a == input a reversed, print wins else loses
+
+I hate python sometimes. if list(a). Then b = a, b.reversed(), a is also reversed. Like why? i thought python executes top down but b = a also a = b in this case?
+In order to ensure b.reversed() doesn't affect a, i have to do b = list(a). Like why?
