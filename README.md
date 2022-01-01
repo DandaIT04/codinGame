@@ -67,5 +67,5 @@ Basically, if value of the index of either one of the two strings contains "1", 
 
 if input a == input a reversed, print wins else loses
 
-I hate python sometimes. if list(a). Then b = a, b.reversed(), a is also reversed. Like why? i thought python executes top down but b = a also a = b in this case?
-In order to ensure b.reversed() doesn't affect a, i have to do b = list(a). Like why?
+I hate python sometimes. if list(a). Then b = a, b.reverse(), a is also reversed. Like why? i thought python executes top down but b = a also a = b in this case?
+In order to ensure b.reverse() doesn't affect a, i have to do b = list(a). Like why?
