@@ -1,0 +1,7 @@
+theInput = "We had a three-course meal.".split()
+
+theInput.reverse()
+
+printReverse = " ".join(map(str,theInput))
+
+print(printReverse)
