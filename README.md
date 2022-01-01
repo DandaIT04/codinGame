@@ -73,3 +73,7 @@ In order to ensure b.reverse() doesn't affect a, i have to do b = list(a). Like 
 # 12_codingame
 
 n = 4, 1+3+5+7 = 16. Basically, sum odd numbers of given number n. But like.....its like....just.....print(n*n).....i did a while loop at first...
+
+# 13_codingame
+
+Basically reverse a given string. e.g 1 2 3 4 -> 4 3 2 1. I was confused and thought based on outputs its supposed to be 4 1 2 3. I thought it was a hard clash but it isn't. I need to look at ALL the outputs first before doing my solution.
