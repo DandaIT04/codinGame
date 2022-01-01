@@ -1,6 +1,11 @@
 # codinGame
 Solutions for codinGame Clash of Code
 
+CodinGame Profile
+(https://www.codingame.com/profile/84c1ae2a5345da8f33f4cd7e8276e7b20327464)
+
+Ranked 4059th in Clash of Codes 1/1/2022
+
 # 1_codinGame
 The problem statement: Find the amount of occurences of the string in an input e.g find RAGE in rage rAgE rageegege RAGE
 After receiving the input, i simply put the input in a list and via text.split(), iterate through it, convert RAGE and elements in list to lowercase, if RAGE in list, count + 1
