@@ -4,7 +4,7 @@ Solutions for codinGame Clash of Code
 CodinGame Profile
 (https://www.codingame.com/profile/84c1ae2a5345da8f33f4cd7e8276e7b20327464)
 
-Ranked 4059th in Clash of Codes 1/1/2022
+Ranked 4380th in Clash of Codes 2/1/2022
 
 # 1_codinGame
 The problem statement: Find the amount of occurences of the string in an input e.g find RAGE in rage rAgE rageegege RAGE
